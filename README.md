@@ -1,0 +1,2 @@
+# jarkom
+Tugas WGTIK
